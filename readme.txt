@@ -1,7 +1,7 @@
 === RedWaves ===
 Tags: red, black, blue, gray, pink, purple, white, yellow, two-columns, left-sidebar, right-sidebar, fixed-layout, custom-background, custom-colors, custom-menu, editor-style, featured-images, microformats, post-formats, sticky-post, threaded-comments, translation-ready
 Requires at least: 3.8
-Tested up to: 4.3.0
+Tested up to: 4.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 RedWaves Lite is minimalist yet responsive and very customizable WordPress theme. It was created with mobile first approach and optimized for AdSense and user engagements. Besides, it's localization-ready (translation-ready) and compatible with latest WordPress version.
@@ -37,6 +37,9 @@ Step 2 – Choose a menu and assign it to the appropriate location in the theme.
 = Where can I add widgets? =
 RedWaves Lite includes two widget areas; Sidebar & Header Widget-area.
 == Changelog ==
+= 2.0.6 - January 26 2016 =
+* Updated the logo.
+* Added Norwegian translation.
 = 2.0.5 - August 23 2015 =
 * Reverted back to old Menu design.
 * Improved RTL support.
@@ -64,3 +67,4 @@ RedWaves Lite includes two widget areas; Sidebar & Header Widget-area.
 * Underscores (Theme Framework) © 2012-2015 Automattic, Inc. http://underscores.me	 License: GPL 2.0
 * Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome	 License: SIL OFL 1.1 & MIT License
 * jquery.pin.js © Copyright 2014 Anthony Garand https://github.com/garand/sticky	 License: https://github.com/garand/sticky/blob/master/LICENSE.md
+* Norwegian translation Oystein Meyer http://www.o-meyer.com

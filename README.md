@@ -41,6 +41,12 @@ DOWNLOAD: https://themient.com/themes/redwaves-lite
 4. Activate the newly installed theme. Go to Appearance > Themes and activate the installed theme.
 
 # Changelog:
+* 2.0.6 - January 26 2016
+ * Updated the logo.
+ * Added Norwegian translation.
+* 2.0.5 - August 23 2015
+ * Reverted back to old Menu design.
+ * Improved RTL support.
 * 2.0.5 - August 23 2015
  * Reverted back to old Menu design.
  * Improved RTL support.
@@ -69,3 +75,4 @@ DOWNLOAD: https://themient.com/themes/redwaves-lite
 * Underscores (Theme Framework) © 2012-2015 Automattic, Inc. http://underscores.me	 License: GPL 2.0
 * Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome	 License: SIL OFL 1.1 & MIT License
 * jquery.pin.js © Copyright 2014 Anthony Garand https://github.com/garand/sticky	 License: https://github.com/garand/sticky/blob/master/LICENSE.md
+* Norwegian translation Oystein Meyer http://www.o-meyer.com

@@ -1,6 +1,8 @@
 # RedWaves lite - Modern & SEO Friendly WordPress Theme
 RedWaves is minimalist yet responsive and very customizable WordPress theme. It was created with mobile first approach and optimized for AdSense and user engagements. Besides, it's localization-ready (translation-ready) and compatible with latest WordPress version.
 
+![alt tag](http://i.imgur.com/HVbnsV0.jpg)
+
 DEMO: http://demo.themient.com/redwaves-free<br />
 DOWNLOAD: https://themient.com/themes/redwaves-lite
 

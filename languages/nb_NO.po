@@ -1,0 +1,803 @@
+# Copyright (C) 2016 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RedWaves Lite 2.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-18 20:26+0100\n"
+"PO-Revision-Date: 2016-01-26 12:13+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: Øystein Meyer <oystein.meyer@boheme.no>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nb_NO\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Denne siden ble ikke funnet!"
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "Ingenting ble funnet her. Prøv en av linkene under eller gjør et søk."
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv å se etter månedlig arkiv. %1$s"
+
+#: archive.php:41 index.php:36 search.php:38
+msgid "&#8249; Previous"
+msgstr "&#8249; Tidligere"
+
+#: archive.php:42 index.php:37 search.php:39
+msgid "Next &#8250;"
+msgstr "Neste &#8250;"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Posten er passord-beskyttet. Skriv passord for å se kommentarer."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: comments.php:26
+msgid "One Comment"
+msgstr "En kommentar"
+
+#: comments.php:26
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: comments.php:51
+msgid "Add a Comment"
+msgstr "Legg til en kommentar"
+
+#: comments.php:53
+msgid "Add Comment"
+msgstr "Legg til kommentar"
+
+#: comments.php:58 comments.php:59
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:60 comments.php:61
+msgid "Email"
+msgstr "Epost"
+
+#: comments.php:62 comments.php:63
+msgid "Website"
+msgstr "Webside"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Hovedmeny"
+
+#: functions.php:33
+msgid "Mobile Menu"
+msgstr "Mobilmeny"
+
+#: functions.php:53
+msgid "Sidebar"
+msgstr "Sidefelt"
+
+#: functions.php:64
+msgid "Header Widget-area"
+msgstr "Header Widget-plassering"
+
+#: functions.php:249
+msgid "Home"
+msgstr "Hjem"
+
+#: functions.php:250 functions.php:255
+msgid "<i class=\"fa fa-caret-right\"></i>"
+msgstr "<i class=\"fa fa-caret-right\"></i>"
+
+#: functions.php:284
+msgid "First"
+msgstr "Første"
+
+#: functions.php:286
+msgid "Previous"
+msgstr "Tidligere"
+
+#: functions.php:293
+msgid "Next"
+msgstr "Neste"
+
+#: functions.php:295
+msgid "Last"
+msgstr "Siste"
+
+#: functions.php:447 functions.php:503 inc/customizer.php:305
+msgid "Related Posts"
+msgstr "Lignende poster"
+
+#: functions.php:552
+msgid "<i class=\"fa fa-chevron-left\"></i>  %link"
+msgstr "<i class=\"fa fa-chevron-left\"></i>  %link"
+
+#: functions.php:552
+msgid "Previous Post"
+msgstr "Tidligere post"
+
+#: functions.php:553
+msgid "%link <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%link <i class=\"fa fa-chevron-right\"></i>"
+
+#: functions.php:553
+msgid "Next Post"
+msgstr "Neste post"
+
+#: functions.php:566
+msgid "About The Author"
+msgstr "Om forfatter"
+
+#: functions.php:598
+#, php-format
+msgid ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Author</span>"
+msgstr ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Forfatter</"
+"span>"
+
+#: functions.php:600 functions.php:603
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:609
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: functions.php:611
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:617
+msgid "Your comment is awaiting moderation."
+msgstr "Kommentar venter på godkjenning"
+
+#: functions.php:635
+msgid "RedWaves theme by <a href=\"http://themient.com\">Themient</a>"
+msgstr "RedWaves tema fra <a href=\"http://themient.com\">Themient</a>"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: header.php:24 header.php:48
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:31
+msgid ""
+"Please assign a menu (Go to Appearance => Menus and assign a menu to "
+"\"Mobile Menu\" location)"
+msgstr ""
+"Tilordne en meny (Gå til Utseende => Tilpass og tilordne til \"Mobil Meny\")"
+
+#: header.php:57
+msgid ""
+"Please assign a menu (Go to Appearance => Menus and assign a menu to "
+"\"Primary Menu\" location)"
+msgstr ""
+"Legg til en meny (Gå til Utseende => Tilpass og legg til en meny i "
+"\"Hovedmeny\")"
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "Søk etter"
+
+#: searchform.php:4
+msgid "Search &#8230;"
+msgstr "Søk &#8230;"
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: functions/widget-fblikebox.php:15
+msgid "RedWaves: Facebook Like Box"
+msgstr "RedWaves: Facebook Liker Boks"
+
+#: functions/widget-fblikebox.php:16
+msgid "Displays Facebook Like Box."
+msgstr "Vis facebook Liker Boks."
+
+#: functions/widget-fblikebox.php:21
+msgid "Find us on Facebook!"
+msgstr "Find oss på Facebook!"
+
+#: functions/widget-fblikebox.php:34 functions/widget-popularposts.php:40
+#: functions/widget-recentposts.php:38 functions/widget-socialicons.php:157
+msgid "Title:"
+msgstr "Tittel:"
+
+#: functions/widget-fblikebox.php:38
+msgid "App Id"
+msgstr "App Id"
+
+#: functions/widget-fblikebox.php:41
+msgid ""
+"You must enter your App ID here, to get an App ID Go to <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/\">FB Developer</a> and create FB "
+"app. Still need help? check this <a target=\"_blank\" href=\"http://premium."
+"wpmudev.org/forums/topic/guide-updated-ultimate-facebook-plugin-"
+"for-2014\">tutorial</a>."
+msgstr ""
+"Du må skrive App ID her, for å få en App ID, gå til <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/\">FB Developer</a> and create FB "
+"app. Still need help? check this <a target=\"_blank\" href=\"http://premium."
+"wpmudev.org/forums/topic/guide-updated-ultimate-facebook-plugin-"
+"for-2014\">tutorial</a>."
+
+#: functions/widget-fblikebox.php:44
+msgid "Facebook Page URL"
+msgstr "Facebook-side URL"
+
+#: functions/widget-fblikebox.php:46
+msgid ""
+"The absolute URL of your Facebook Page. e.g: https://www.facebook.com/"
+"themient"
+msgstr ""
+"Absolutt URL til din Facebook-side, f.eks: https://www.facebook.com/themient"
+
+#: functions/widget-fblikebox.php:49
+msgid "Width"
+msgstr "Bredde"
+
+#: functions/widget-fblikebox.php:51
+msgid "The width of the widget in pixels. Minimum is 292."
+msgstr "Bredde på Widget i pixel, minimum 292."
+
+#: functions/widget-fblikebox.php:54
+msgid "Height"
+msgstr "Høyde"
+
+#: functions/widget-fblikebox.php:56
+msgid ""
+"The height of the plugin in pixels. The default height varies based on "
+"number of faces to display, and whether the stream is displayed."
+msgstr ""
+"Høyde av plugin i pixel. Normal høyde varierer basert på antall ansikter som "
+"vises og om stream er synlig."
+
+#: functions/widget-fblikebox.php:59
+msgid "Color Scheme"
+msgstr "Fargekart"
+
+#: functions/widget-fblikebox.php:67
+msgid "Show Friends' Faces"
+msgstr "Vis venners ansikter"
+
+#: functions/widget-fblikebox.php:71
+msgid "Show Posts"
+msgstr "Vis poster"
+
+#: functions/widget-fblikebox.php:75
+msgid "Show Header"
+msgstr "Vis header"
+
+#: functions/widget-fblikebox.php:79
+msgid "Show Border"
+msgstr "Vis kanter"
+
+#: functions/widget-popularposts.php:15
+msgid "RedWaves: Popular Posts"
+msgstr "RedWaves: Populære poster"
+
+#: functions/widget-popularposts.php:16
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "Vis de mest populære postene med minibilde"
+
+#: functions/widget-popularposts.php:30
+msgid "Popular Posts"
+msgstr "Populære poster"
+
+#: functions/widget-popularposts.php:45
+msgid "Popular limit (days), 0 for No-limit"
+msgstr "Visningsgrense (dager), 0 for Ingen-grense"
+
+#: functions/widget-popularposts.php:51 functions/widget-recentposts.php:43
+msgid "Number of Posts to show"
+msgstr "Vise antall poster"
+
+#: functions/widget-popularposts.php:58 functions/widget-recentposts.php:50
+msgid "Show Thumbnails"
+msgstr "Vis minibilde"
+
+#: functions/widget-popularposts.php:65 functions/widget-recentposts.php:57
+msgid "Show post date"
+msgstr "Vis dato for posting"
+
+#: functions/widget-popularposts.php:72 functions/widget-recentposts.php:64
+msgid "Show number of comments"
+msgstr "Vis antall kommentarer"
+
+#: functions/widget-popularposts.php:79 functions/widget-recentposts.php:71
+msgid "Show excerpt"
+msgstr "Vis utsnitt"
+
+#: functions/widget-popularposts.php:84 functions/widget-recentposts.php:76
+msgid "Excerpt Length:"
+msgstr "Lengde av utsnitt:"
+
+#: functions/widget-recentposts.php:15
+msgid "RedWaves: Recent Posts"
+msgstr "RedWaves: Siste poster"
+
+#: functions/widget-recentposts.php:16
+msgid "Display the most recent posts from all categories."
+msgstr "Vis siste poster fra alle kategorier."
+
+#: functions/widget-recentposts.php:29 functions/widget-recentposts.php:106
+msgid "Recent Posts"
+msgstr "Nylige poster"
+
+#: functions/widget-socialicons.php:51
+msgid "Facebook URI"
+msgstr "Facebook URI"
+
+#: functions/widget-socialicons.php:55
+msgid "Twitter URI"
+msgstr "Twitter URI"
+
+#: functions/widget-socialicons.php:59
+msgid "Google+ URI"
+msgstr "Google+ URI"
+
+#: functions/widget-socialicons.php:63
+msgid "YouTube URI"
+msgstr "YouTube URI"
+
+#: functions/widget-socialicons.php:67
+msgid "RSS URI"
+msgstr "RSS URI"
+
+#: functions/widget-socialicons.php:71
+msgid "Pinterest URI"
+msgstr "Pinterest URI"
+
+#: functions/widget-socialicons.php:75
+msgid "Linkedin URI"
+msgstr "Linkedin URI"
+
+#: functions/widget-socialicons.php:79
+msgid "StumbleUpon URI"
+msgstr "StumbleUpon URI"
+
+#: functions/widget-socialicons.php:83
+msgid "Reddit URI"
+msgstr "Reddit URI"
+
+#: functions/widget-socialicons.php:87
+msgid "Tumblr URI"
+msgstr "Tumblr URI"
+
+#: functions/widget-socialicons.php:91
+msgid "Instagram URI"
+msgstr "Instagram URI"
+
+#: functions/widget-socialicons.php:95
+msgid "Vimeo URI"
+msgstr "Vimeo URI"
+
+#: functions/widget-socialicons.php:99
+msgid "FourSquare URI"
+msgstr "FourSquare URI"
+
+#: functions/widget-socialicons.php:103
+msgid "Soundcloud URI"
+msgstr "Soundcloud URI"
+
+#: functions/widget-socialicons.php:107
+msgid "GitHub URI"
+msgstr "GitHub URI"
+
+#: functions/widget-socialicons.php:111
+msgid "Flickr URI"
+msgstr "Flickr URI"
+
+#: functions/widget-socialicons.php:115
+msgid "Skype URI"
+msgstr "Skype URI"
+
+#: functions/widget-socialicons.php:120
+msgid "Behance URI"
+msgstr "Behance URI"
+
+#: functions/widget-socialicons.php:124
+msgid "Dribbble URI"
+msgstr "Dribbble URI"
+
+#: functions/widget-socialicons.php:128
+msgid "Dropbox URI"
+msgstr "Dropbox URI"
+
+#: functions/widget-socialicons.php:132
+msgid "Email URI"
+msgstr "Email URI"
+
+#: functions/widget-socialicons.php:139
+msgid "Show social profile icons."
+msgstr "Vis sosialprofil-ikon."
+
+#: functions/widget-socialicons.php:147
+msgid "RedWaves: Social Icons"
+msgstr "RedWaves: Sosiale ikoner"
+
+#: functions/widget-socialicons.php:159
+msgid "Open links in a new tab?"
+msgstr "Åpne link i ny fane?"
+
+#: inc/customizer.php:20
+msgid "General Settings"
+msgstr "Hovedinnstillinger"
+
+#: inc/customizer.php:36
+msgid "Custom Favicon"
+msgstr "Egen Favicon"
+
+#: inc/customizer.php:71
+msgid "Sticky Navigation menu"
+msgstr "Klistret navigasjonsmeny"
+
+#: inc/customizer.php:106
+msgid "Copyright Text"
+msgstr "Rettighetstekst"
+
+#: inc/customizer.php:128
+msgid "Logo Image"
+msgstr "Logobilde"
+
+#: inc/customizer.php:138
+msgid "Archives Settings"
+msgstr "Innstillinger arkiv"
+
+#: inc/customizer.php:206
+msgid "Display"
+msgstr "Visning"
+
+#: inc/customizer.php:228
+msgid "Archives Meta"
+msgstr "Arkiv meta"
+
+#: inc/customizer.php:260
+msgid "Excerpt Length"
+msgstr "Lenge på utsnitt"
+
+#: inc/customizer.php:271
+msgid "Article Settings"
+msgstr "Innstillinger artikkel"
+
+#: inc/customizer.php:287
+msgid "Post Meta"
+msgstr "Posting meta"
+
+#: inc/customizer.php:320
+msgid "Related Posts Number"
+msgstr "Relatert post nummer"
+
+#: inc/customizer.php:338
+msgid "Related Posts Query"
+msgstr "Relatert post spørring"
+
+#: inc/customizer.php:341
+msgid "Tags"
+msgstr "Tagger"
+
+#: inc/customizer.php:342
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/customizer.php:359
+msgid "Related Posts Excerpt Length"
+msgstr "Lengde på utsnitt av relaterte poster"
+
+#: inc/customizer.php:378
+msgid "Next/Prev Article"
+msgstr "Neste/tidligere artikler"
+
+#: inc/customizer.php:396
+msgid "Post Author Box"
+msgstr "Forfatterboks for bilde"
+
+#: inc/customizer.php:406
+msgid "Design & Layout"
+msgstr "Design & Layout"
+
+#: inc/customizer.php:423
+msgid "Sidebar Settings"
+msgstr "Innstilling sidefelt"
+
+#: inc/customizer.php:448
+msgid "Theme color"
+msgstr "Farger på tema"
+
+#: inc/customizer.php:468
+msgid "Enable Shadows"
+msgstr "Bruk skygger"
+
+#: inc/customizer.php:486
+msgid "Background settings"
+msgstr "Innstillinger bakgrunn"
+
+#: inc/customizer.php:489
+msgid "Color"
+msgstr "Farge"
+
+#: inc/customizer.php:490
+msgid "Pattern"
+msgstr "Mønster"
+
+#: inc/customizer.php:491
+msgid "Custom image"
+msgstr "Eget bilde"
+
+#: inc/customizer.php:510
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/customizer.php:530
+msgid "Background pattern"
+msgstr "Bakgrunnsmønster"
+
+#: inc/customizer.php:591
+msgid "Custom background image"
+msgstr "Eget bakgrunns-mønster"
+
+#: inc/customizer.php:608 inc/customizer.php:611 inc/customizer.php:743
+msgid "Repeat"
+msgstr "Gjenta"
+
+#: inc/customizer.php:612 inc/customizer.php:744
+msgid "Repeat-x"
+msgstr "Gjenta-x"
+
+#: inc/customizer.php:613 inc/customizer.php:745
+msgid "Repeat-y"
+msgstr "Gjenta-y"
+
+#: inc/customizer.php:614 inc/customizer.php:746
+msgid "No-repeat"
+msgstr "Ikke-gjenta"
+
+#: inc/customizer.php:629
+msgid "Attachment"
+msgstr "Vedlegg"
+
+#: inc/customizer.php:632 inc/customizer.php:759
+msgid "Scroll"
+msgstr "Skroll"
+
+#: inc/customizer.php:633 inc/customizer.php:760
+msgid "Fixed"
+msgstr "Fastbestemt"
+
+#: inc/customizer.php:648
+msgid "Position"
+msgstr "Posisjon"
+
+#: inc/customizer.php:651 inc/customizer.php:773
+msgid "Left top"
+msgstr "Venstre topp"
+
+#: inc/customizer.php:652 inc/customizer.php:774
+msgid "Left center"
+msgstr "Venstre midten"
+
+#: inc/customizer.php:653 inc/customizer.php:775
+msgid "Left bottom"
+msgstr "Venstre bunn"
+
+#: inc/customizer.php:654 inc/customizer.php:776
+msgid "Right top"
+msgstr "Høyre topp"
+
+#: inc/customizer.php:655 inc/customizer.php:777
+msgid "Right center"
+msgstr "Høyre midten"
+
+#: inc/customizer.php:656 inc/customizer.php:778
+msgid "Right bottom"
+msgstr "Høyre bunn"
+
+#: inc/customizer.php:657 inc/customizer.php:779
+msgid "Center top"
+msgstr "Midten topp"
+
+#: inc/customizer.php:658 inc/customizer.php:780
+msgid "Center center"
+msgstr "Midten på midten"
+
+#: inc/customizer.php:659 inc/customizer.php:781
+msgid "Center bottom"
+msgstr "Midten i bunn"
+
+#: inc/customizer.php:677
+msgid "Custom CSS"
+msgstr "Eget CSS"
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:40
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56 inc/template-tags.php:70 inc/template-tags.php:86
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:68
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgid "OFF"
+msgstr "AV"
+
+#: inc/template-tags.php:129
+#, php-format
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:131
+#, php-format
+msgid "Tag: %s"
+msgstr "Tagg: %s"
+
+#: inc/template-tags.php:133
+#, php-format
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:135
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:137
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:139
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:142
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Tilside"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoer"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Linker"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Prat"
+
+#: inc/template-tags.php:161
+#, php-format
+msgid "Archives: %s"
+msgstr "Arkiver: %s"
+
+#: inc/template-tags.php:165
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives"
+msgstr "Arkiver"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for din første post? <a href=\"%1$s\">Kom igjen!</a>."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Ingenting passet søket. Prøv igjen med annet søkeord."
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Kan ikke finne det du søker etter. Prøv et søk."
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:16
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content.php:21
+#, php-format
+msgid "View all posts in %s"
+msgstr "Se alle poster i %s"
+
+#: template-parts/content.php:44 template-parts/content.php:74
+msgid "Read More"
+msgstr "Les Mer"

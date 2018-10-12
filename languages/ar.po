@@ -1,0 +1,802 @@
+# Copyright (C) 2016 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RedWaves Lite 2.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-03 05:59+0100\n"
+"PO-Revision-Date: 2016-01-26 12:13+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+"Last-Translator: \n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذرًا! تلك الصفحة لا يمكن العثور عليها."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"يبدو أنه لم يتم العثور على أي شيء بهذه الصفحة .  حاول مرة اخرى  من الروابط "
+"ادناه او من اداة البحث؟"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "الفئات الأكثر استخداماً"
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول تبحث في الأرشيف الشهري.  %1$s"
+
+#: archive.php:41 index.php:36 search.php:38
+msgid "&#8249; Previous"
+msgstr "<السابق"
+
+#: archive.php:42 index.php:37 search.php:39
+msgid "Next &#8250;"
+msgstr "التالي>"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذه المقالة محمية بكلمة سر. قم بكتابة كلمة السر."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "لا تعليقات"
+
+#: comments.php:26
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#: comments.php:26
+msgid "% Comments"
+msgstr "عدد التعليقات:  %"
+
+#: comments.php:51
+msgid "Add a Comment"
+msgstr "أضف تعليقك"
+
+#: comments.php:53
+msgid "Add Comment"
+msgstr "أضف تعليقك"
+
+#: comments.php:58 comments.php:59
+msgid "Name"
+msgstr "الاسم"
+
+#: comments.php:60 comments.php:61
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+#: comments.php:62 comments.php:63
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: functions.php:33
+msgid "Mobile Menu"
+msgstr "القائمة الثانوية"
+
+#: functions.php:53
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: functions.php:64
+msgid "Header Widget-area"
+msgstr "منطقة ودجات الرأس"
+
+#: functions.php:249
+msgid "Home"
+msgstr "الرئيسية"
+
+#: functions.php:250 functions.php:255
+msgid "<i class=\"fa fa-caret-right\"></i>"
+msgstr "<i class=\"fa fa-caret-left\"></i>"
+
+#: functions.php:284
+msgid "First"
+msgstr "الأولى"
+
+#: functions.php:286
+msgid "Previous"
+msgstr "السابق"
+
+#: functions.php:293
+msgid "Next"
+msgstr "التالي"
+
+#: functions.php:295
+msgid "Last"
+msgstr "الأخيرة"
+
+#: functions.php:447 functions.php:503 inc/customizer.php:305
+msgid "Related Posts"
+msgstr "المقالات المشابهة"
+
+#: functions.php:552
+msgid "<i class=\"fa fa-chevron-left\"></i>  %link"
+msgstr "<i class=\"fa fa-chevron-right\"></i>  %link"
+
+#: functions.php:552
+msgid "Previous Post"
+msgstr "المقال السابق"
+
+#: functions.php:553
+msgid "%link <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%link <i class=\"fa fa-chevron-left\"></i>"
+
+#: functions.php:553
+msgid "Next Post"
+msgstr "المقال التالي"
+
+#: functions.php:566
+msgid "About The Author"
+msgstr "نبذة عن الكاتب"
+
+#: functions.php:598
+#, php-format
+msgid ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Author</span>"
+msgstr ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">كاتب المقال</"
+"span>"
+
+#: functions.php:600 functions.php:603
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:609
+msgid "(Edit)"
+msgstr "(تعديل)"
+
+#: functions.php:611
+msgid "Reply"
+msgstr "أضف ردك"
+
+#: functions.php:617
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك قيد المراجعة."
+
+#: functions.php:635
+msgid "RedWaves theme by <a href=\"http://themient.com\">Themient</a>"
+msgstr "قالب RedWaves من تصميم <a href=\"http://themient.com\">Themient</a>"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: header.php:24 header.php:48
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:31
+msgid ""
+"Please assign a menu (Go to Appearance => Menus and assign a menu to "
+"\"Mobile Menu\" location)"
+msgstr "الرجاء الذهاب إلى مظهر => قوائم وتعيين قائمة"
+
+#: header.php:57
+msgid ""
+"Please assign a menu (Go to Appearance => Menus and assign a menu to "
+"\"Primary Menu\" location)"
+msgstr "الرجاء الذهاب إلى مظهر => قوائم وتعيين قائمة"
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن:  %s"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "ابحث عن"
+
+#: searchform.php:4
+msgid "Search &#8230;"
+msgstr "بحث ..."
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "بحث عن:"
+
+#: functions/widget-fblikebox.php:15
+msgid "RedWaves: Facebook Like Box"
+msgstr "RedWaves: صندوق إعجابات الفيسبوك"
+
+#: functions/widget-fblikebox.php:16
+msgid "Displays Facebook Like Box."
+msgstr "هذه الودجات تقوم بإظهار صندوق إعجابات الفيسبوك"
+
+#: functions/widget-fblikebox.php:21
+msgid "Find us on Facebook!"
+msgstr "تابعنا على الفيسبوك!"
+
+#: functions/widget-fblikebox.php:34 functions/widget-popularposts.php:40
+#: functions/widget-recentposts.php:38 functions/widget-socialicons.php:157
+msgid "Title:"
+msgstr "العنوان:"
+
+#: functions/widget-fblikebox.php:38
+msgid "App Id"
+msgstr "معرف التطبيق"
+
+#: functions/widget-fblikebox.php:41
+msgid ""
+"You must enter your App ID here, to get an App ID Go to <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/\">FB Developer</a> and create FB "
+"app. Still need help? check this <a target=\"_blank\" href=\"http://premium."
+"wpmudev.org/forums/topic/guide-updated-ultimate-facebook-plugin-"
+"for-2014\">tutorial</a>."
+msgstr ""
+"يجب عليك إدخال معرف التطبيق الخاص بك هنا، للحصول على معرف التطبيق أذهب إلى "
+"<a target=\"_blank\" href=\"https://developers.facebook.com/\">FB Developer</"
+"a> و قم بإنشاء Facebook App. لا تزال بحاجة إلى مساعدة؟ تحقق من هذا <a target="
+"\"_blank\" href=\"http://premium.wpmudev.org/forums/topic/guide-updated-"
+"ultimate-facebook-plugin-for-2014\">البرنامج التعليمي</a>."
+
+#: functions/widget-fblikebox.php:44
+msgid "Facebook Page URL"
+msgstr "رابط صفحة الفيسبوك"
+
+#: functions/widget-fblikebox.php:46
+msgid ""
+"The absolute URL of your Facebook Page. e.g: https://www.facebook.com/"
+"themient"
+msgstr "رابط صفحة الفيسبوك. مثال: https://www.facebook.com/themient"
+
+#: functions/widget-fblikebox.php:49
+msgid "Width"
+msgstr "العرض"
+
+#: functions/widget-fblikebox.php:51
+msgid "The width of the widget in pixels. Minimum is 292."
+msgstr "عرض الودجات بالبكسل. الحد الأدنى هو 292."
+
+#: functions/widget-fblikebox.php:54
+msgid "Height"
+msgstr "الارتفاع"
+
+#: functions/widget-fblikebox.php:56
+msgid ""
+"The height of the plugin in pixels. The default height varies based on "
+"number of faces to display, and whether the stream is displayed."
+msgstr ""
+"ارتفاع  الودجات بالبكسل. يختلف الارتفاع الافتراضي على أساس عدد الوجوه "
+"البارزة."
+
+#: functions/widget-fblikebox.php:59
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+#: functions/widget-fblikebox.php:67
+msgid "Show Friends' Faces"
+msgstr "اظهار وجوه الأصدقاء"
+
+#: functions/widget-fblikebox.php:71
+msgid "Show Posts"
+msgstr "اظهار المقالات"
+
+#: functions/widget-fblikebox.php:75
+msgid "Show Header"
+msgstr "اظهار الرأس"
+
+#: functions/widget-fblikebox.php:79
+msgid "Show Border"
+msgstr "اظهار الحدود"
+
+#: functions/widget-popularposts.php:15
+msgid "RedWaves: Popular Posts"
+msgstr "RedWaves: المقالات المشهورة"
+
+#: functions/widget-popularposts.php:16
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "اظهار المقالات الأكثر شهرة."
+
+#: functions/widget-popularposts.php:30
+msgid "Popular Posts"
+msgstr "المقالات المشهورة"
+
+#: functions/widget-popularposts.php:45
+msgid "Popular limit (days), 0 for No-limit"
+msgstr "حد الشهرة (أيام)، 0 يعني لا حدود"
+
+#: functions/widget-popularposts.php:51 functions/widget-recentposts.php:43
+msgid "Number of Posts to show"
+msgstr "عدد المقالات التي يجب إظهارها"
+
+#: functions/widget-popularposts.php:58 functions/widget-recentposts.php:50
+msgid "Show Thumbnails"
+msgstr "اظهار الصور المصغرة"
+
+#: functions/widget-popularposts.php:65 functions/widget-recentposts.php:57
+msgid "Show post date"
+msgstr "اظهار تاريخ المقالة"
+
+#: functions/widget-popularposts.php:72 functions/widget-recentposts.php:64
+msgid "Show number of comments"
+msgstr "اظهار عدد التعليقات"
+
+#: functions/widget-popularposts.php:79 functions/widget-recentposts.php:71
+msgid "Show excerpt"
+msgstr "اظهار المقتطفات"
+
+#: functions/widget-popularposts.php:84 functions/widget-recentposts.php:76
+msgid "Excerpt Length:"
+msgstr "طول المقتطفات:"
+
+#: functions/widget-recentposts.php:15
+msgid "RedWaves: Recent Posts"
+msgstr "RedWaves: المقالات الأخيرة"
+
+#: functions/widget-recentposts.php:16
+msgid "Display the most recent posts from all categories."
+msgstr "اظهار المقالات الأكثر شهرة."
+
+#: functions/widget-recentposts.php:29 functions/widget-recentposts.php:106
+msgid "Recent Posts"
+msgstr "المقالات الأخيرة"
+
+#: functions/widget-socialicons.php:51
+msgid "Facebook URI"
+msgstr "رابط صفحة الفيسبوك"
+
+#: functions/widget-socialicons.php:55
+msgid "Twitter URI"
+msgstr "رابط حساب التويتر"
+
+#: functions/widget-socialicons.php:59
+msgid "Google+ URI"
+msgstr "رابط صفحة الغوغل+"
+
+#: functions/widget-socialicons.php:63
+msgid "YouTube URI"
+msgstr "رابط صفحة اليوتيوب"
+
+#: functions/widget-socialicons.php:67
+msgid "RSS URI"
+msgstr "رابط RSS"
+
+#: functions/widget-socialicons.php:71
+msgid "Pinterest URI"
+msgstr "رابط Pinterest"
+
+#: functions/widget-socialicons.php:75
+msgid "Linkedin URI"
+msgstr "رابط Linkedin"
+
+#: functions/widget-socialicons.php:79
+msgid "StumbleUpon URI"
+msgstr "رابط StumbleUpon"
+
+#: functions/widget-socialicons.php:83
+msgid "Reddit URI"
+msgstr "رابط Reddit"
+
+#: functions/widget-socialicons.php:87
+msgid "Tumblr URI"
+msgstr "رابط Tumblr"
+
+#: functions/widget-socialicons.php:91
+msgid "Instagram URI"
+msgstr "رابط Instagram"
+
+#: functions/widget-socialicons.php:95
+msgid "Vimeo URI"
+msgstr "رابط Vimeo"
+
+#: functions/widget-socialicons.php:99
+msgid "FourSquare URI"
+msgstr "رابط FourSquare"
+
+#: functions/widget-socialicons.php:103
+msgid "Soundcloud URI"
+msgstr "رابط Soundcloud"
+
+#: functions/widget-socialicons.php:107
+msgid "GitHub URI"
+msgstr "رابط GitHub"
+
+#: functions/widget-socialicons.php:111
+msgid "Flickr URI"
+msgstr "رابط Flickr"
+
+#: functions/widget-socialicons.php:115
+msgid "Skype URI"
+msgstr "رابط Skype"
+
+#: functions/widget-socialicons.php:120
+msgid "Behance URI"
+msgstr "رابط Behance"
+
+#: functions/widget-socialicons.php:124
+msgid "Dribbble URI"
+msgstr "رابط Dribbble"
+
+#: functions/widget-socialicons.php:128
+msgid "Dropbox URI"
+msgstr "رابط Dropbox"
+
+#: functions/widget-socialicons.php:132
+msgid "Email URI"
+msgstr "رابط البريد الالكتروني"
+
+#: functions/widget-socialicons.php:139
+msgid "Show social profile icons."
+msgstr "إظهار أيقونات الحسابات الاجتماعية."
+
+#: functions/widget-socialicons.php:147
+msgid "RedWaves: Social Icons"
+msgstr "RedWaves: أيقونات الحسابات الاجتماعية"
+
+#: functions/widget-socialicons.php:159
+msgid "Open links in a new tab?"
+msgstr "فتح الرابط في علامة تبويب جديدة؟"
+
+#: inc/customizer.php:20
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: inc/customizer.php:36
+msgid "Custom Favicon"
+msgstr "الفافيكون الخاص"
+
+#: inc/customizer.php:71
+msgid "Sticky Navigation menu"
+msgstr "تثبيت القائمة الرئيسية"
+
+#: inc/customizer.php:106
+msgid "Copyright Text"
+msgstr "نص حقوق المؤلف"
+
+#: inc/customizer.php:128
+msgid "Logo Image"
+msgstr "صورة الشعار"
+
+#: inc/customizer.php:138
+msgid "Archives Settings"
+msgstr "إعدادات المحفوظات"
+
+#: inc/customizer.php:206
+msgid "Display"
+msgstr "العرض"
+
+#: inc/customizer.php:228
+msgid "Archives Meta"
+msgstr "معلومات المحفوظات"
+
+#: inc/customizer.php:260
+msgid "Excerpt Length"
+msgstr "طول المقتطفات"
+
+#: inc/customizer.php:271
+msgid "Article Settings"
+msgstr "إعدادات المقالات"
+
+#: inc/customizer.php:287
+msgid "Post Meta"
+msgstr "معلومات المقال"
+
+#: inc/customizer.php:320
+msgid "Related Posts Number"
+msgstr "عدد المقالات المشابهة"
+
+#: inc/customizer.php:338
+msgid "Related Posts Query"
+msgstr "طريقة اعتماد المقالات المشابهة"
+
+#: inc/customizer.php:341
+msgid "Tags"
+msgstr "العلامات"
+
+#: inc/customizer.php:342
+msgid "Categories"
+msgstr "الفئات"
+
+#: inc/customizer.php:359
+msgid "Related Posts Excerpt Length"
+msgstr "المقالات المشابهة"
+
+#: inc/customizer.php:378
+msgid "Next/Prev Article"
+msgstr "المقال التالي / السابق"
+
+#: inc/customizer.php:396
+msgid "Post Author Box"
+msgstr "صندوق كاتب المقال"
+
+#: inc/customizer.php:406
+msgid "Design & Layout"
+msgstr "تصميم وتخطيط"
+
+#: inc/customizer.php:423
+msgid "Sidebar Settings"
+msgstr "إعدادات الشريط الجانبي"
+
+#: inc/customizer.php:448
+msgid "Theme color"
+msgstr "لون القالب"
+
+#: inc/customizer.php:468
+msgid "Enable Shadows"
+msgstr "ظل"
+
+#: inc/customizer.php:486
+msgid "Background settings"
+msgstr "إعدادات الخلفية"
+
+#: inc/customizer.php:489
+msgid "Color"
+msgstr "لون"
+
+#: inc/customizer.php:490
+msgid "Pattern"
+msgstr "نمط"
+
+#: inc/customizer.php:491
+msgid "Custom image"
+msgstr "صورة خاصة للخلفية"
+
+#: inc/customizer.php:510
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: inc/customizer.php:530
+msgid "Background pattern"
+msgstr "نمط الخلفية"
+
+#: inc/customizer.php:591
+msgid "Custom background image"
+msgstr "صورة خاصة للخلفية"
+
+#: inc/customizer.php:608 inc/customizer.php:611 inc/customizer.php:743
+msgid "Repeat"
+msgstr "كرر"
+
+#: inc/customizer.php:612 inc/customizer.php:744
+msgid "Repeat-x"
+msgstr "كرر أفقيا"
+
+#: inc/customizer.php:613 inc/customizer.php:745
+msgid "Repeat-y"
+msgstr "كرر عموديا"
+
+#: inc/customizer.php:614 inc/customizer.php:746
+msgid "No-repeat"
+msgstr "لا تكرار"
+
+#: inc/customizer.php:629
+msgid "Attachment"
+msgstr "التعلق"
+
+#: inc/customizer.php:632 inc/customizer.php:759
+msgid "Scroll"
+msgstr "متحركة"
+
+#: inc/customizer.php:633 inc/customizer.php:760
+msgid "Fixed"
+msgstr "ثابتة"
+
+#: inc/customizer.php:648
+msgid "Position"
+msgstr "الوضع"
+
+#: inc/customizer.php:651 inc/customizer.php:773
+msgid "Left top"
+msgstr "أعلى اليسار"
+
+#: inc/customizer.php:652 inc/customizer.php:774
+msgid "Left center"
+msgstr "يسار الوسط"
+
+#: inc/customizer.php:653 inc/customizer.php:775
+msgid "Left bottom"
+msgstr "الجزء السفلي الأيسر"
+
+#: inc/customizer.php:654 inc/customizer.php:776
+msgid "Right top"
+msgstr "أعلى اليمين"
+
+#: inc/customizer.php:655 inc/customizer.php:777
+msgid "Right center"
+msgstr "يمين الوسط"
+
+#: inc/customizer.php:656 inc/customizer.php:778
+msgid "Right bottom"
+msgstr "أسفل اليمين"
+
+#: inc/customizer.php:657 inc/customizer.php:779
+msgid "Center top"
+msgstr "أعلى الوسط"
+
+#: inc/customizer.php:658 inc/customizer.php:780
+msgid "Center center"
+msgstr "في المركز"
+
+#: inc/customizer.php:659 inc/customizer.php:781
+msgid "Center bottom"
+msgstr "أسفل الوسط"
+
+#: inc/customizer.php:677
+msgid "Custom CSS"
+msgstr "خصائص CSS"
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "الصفحة  %s"
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:40
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56 inc/template-tags.php:70 inc/template-tags.php:86
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:68
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgid "OFF"
+msgstr "التعليقات مغلقة!"
+
+#: inc/template-tags.php:129
+#, php-format
+msgid "Category: %s"
+msgstr "الفئة: %s"
+
+#: inc/template-tags.php:131
+#, php-format
+msgid "Tag: %s"
+msgstr "العلامة: %s"
+
+#: inc/template-tags.php:133
+#, php-format
+msgid "Author: %s"
+msgstr "المؤلف: %s"
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: inc/template-tags.php:135
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid "Month: %s"
+msgstr "الشهر: %s"
+
+#: inc/template-tags.php:137
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Day: %s"
+msgstr "اليوم: %s"
+
+#: inc/template-tags.php:139
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:142
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "المقالات الجانبية"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "المعارض"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "الصور"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "الفيديوهات"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "الاقتباسات"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "الروابط"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "الأوضاع"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "الصوتيات"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "الدردشات"
+
+#: inc/template-tags.php:161
+#, php-format
+msgid "Archives: %s"
+msgstr "المحفوظات: %s"
+
+#: inc/template-tags.php:165
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives"
+msgstr "المحفوظات"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على أي شيء"
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر مقالتك الأولى؟ <a href=\"%1$s\"> إبدأ هنا </a>."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "عذرا، لا توجد نتائج تتطابق مع مدخلات البحث. رجاء حاول مرة اخرى."
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أنه لم نتمكن من إيجاد ما تبحث عنه. ربما البحث قد يساعدك."
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:16
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/content.php:21
+#, php-format
+msgid "View all posts in %s"
+msgstr "عرض جميع المقالات في %s"
+
+#: template-parts/content.php:44 template-parts/content.php:74
+msgid "Read More"
+msgstr "اقرأ المزيد"
